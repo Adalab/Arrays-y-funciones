@@ -54,6 +54,10 @@ function writeCriaturas(arr) {
   container.innerHTML = content;
 }
 
+function paco() {
+  
+}
+
 function goodFunction() {
   writeCriaturas(contacts);
 }
